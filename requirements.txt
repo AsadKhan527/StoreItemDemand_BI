@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+plotly
+statsmodels
+arch
+scikit-learn
+xgboost
+tensorflow
+keras
+scipy
+joblib
+matplotlib
+seaborn
+pmdarima

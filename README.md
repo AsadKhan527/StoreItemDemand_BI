@@ -31,6 +31,10 @@ Each model is compared using key metrics such as MAE, RMSE, and MAPE to help ide
 
 The dataset used in this dashboard comes from the [Store Item Demand Forecasting Challenge on Kaggle](https://www.kaggle.com/competitions/demand-forecasting/data), containing historical sales data at a daily level for multiple store-item combinations.
 
+## 💡 Demo 
+<img width="1019" alt="Sales_BI" src="https://github.com/user-attachments/assets/5e0c13d7-426b-4aa6-815a-91881f6e0b73" />
+
+
 ## 🧾 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

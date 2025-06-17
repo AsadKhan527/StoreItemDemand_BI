@@ -23,9 +23,8 @@ Each model is compared using key metrics such as MAE, RMSE, and MAPE to help ide
 ## 🧠 Technologies Used
 
 - **Power BI** – Dashboard design and data modeling  
-- **Python** – Time series modeling and data preprocessing  
-- **Streamlit** – Web app deployment for forecasting models  
-- **Plotly & Statsmodels** – For forecasting and model evaluation  
+- **Excel** – Data preprocessing  
+- **DAX** – For query 
 
 ## 📊 Dataset
 
@@ -43,4 +42,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions, suggestions, or collaboration opportunities:  
 **Mohammad Asad Khan**  
-[LinkedIn](linkedin.com/in/asad-khan-0a526225b) | [Email](khanasad.27nov@gmail.com)
+LinkedIn : linkedin.com/in/asad-khan-0a526225b | Email : khanasad.27nov@gmail.com
